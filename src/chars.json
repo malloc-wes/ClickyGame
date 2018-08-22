@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "image": "yoda.png"
+    },
+    {
+      "id": 2,
+      "image": "vader.png"    
+    },
+    {
+      "id": 3,
+      "image": "trooper.png"
+    },
+    {
+      "id": 4,
+      "image": "rey.png" 
+    },
+    {
+      "id": 5,
+      "image": "ren.png"
+    },
+    {
+      "id": 6,
+      "image": "R2D2.png"
+    },
+    {
+      "id": 7,
+      "image": "maul.png"
+    },
+    {
+      "id": 8,
+      "image": "luke.png"
+    },
+    {
+      "id": 9,
+      "image": "leia.png"
+    },
+    {
+      "id": 10,
+      "image": "hansolo.png"
+    },
+    {
+      "id": 11,
+      "image": "chewy.png"
+    },
+    {
+      "id": 12,
+      "image": "C3PO.png"
+    }
+  ]
+  
